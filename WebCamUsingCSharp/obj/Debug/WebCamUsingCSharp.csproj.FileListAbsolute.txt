@@ -1,0 +1,9 @@
+E:\ASP.Net\ASP.Net WorkSpace\WebCamUsingCSharp\WebCamUsingCSharp\bin\Debug\WebCamUsingCSharp.exe.config
+E:\ASP.Net\ASP.Net WorkSpace\WebCamUsingCSharp\WebCamUsingCSharp\bin\Debug\WebCamUsingCSharp.exe
+E:\ASP.Net\ASP.Net WorkSpace\WebCamUsingCSharp\WebCamUsingCSharp\bin\Debug\WebCamUsingCSharp.pdb
+E:\ASP.Net\ASP.Net WorkSpace\WebCamUsingCSharp\WebCamUsingCSharp\obj\Debug\WebCamUsingCSharp.csprojResolveAssemblyReference.cache
+E:\ASP.Net\ASP.Net WorkSpace\WebCamUsingCSharp\WebCamUsingCSharp\obj\Debug\WebCamUsingCSharp.Form1.resources
+E:\ASP.Net\ASP.Net WorkSpace\WebCamUsingCSharp\WebCamUsingCSharp\obj\Debug\WebCamUsingCSharp.Properties.Resources.resources
+E:\ASP.Net\ASP.Net WorkSpace\WebCamUsingCSharp\WebCamUsingCSharp\obj\Debug\WebCamUsingCSharp.csproj.GenerateResource.Cache
+E:\ASP.Net\ASP.Net WorkSpace\WebCamUsingCSharp\WebCamUsingCSharp\obj\Debug\WebCamUsingCSharp.exe
+E:\ASP.Net\ASP.Net WorkSpace\WebCamUsingCSharp\WebCamUsingCSharp\obj\Debug\WebCamUsingCSharp.pdb
